@@ -1,109 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Mi página personal</title>
-  <style>
-    .rectangulo {
-      display: inline-block;
-      padding: 10px;
-      margin: 10px;
-      color: white;
-      font-weight: bold;
-      text-align: center;
-    }
-    .rojo { background-color: red; }
-    .verde { background-color: green; }
-    .azul { background-color: blue; }
-    .amarillo { background-color: yellow; }
-    .naranja { background-color: orange; }
-    .morado { background-color: purple; }
-  </style>
-</head>
-<body>
-  <div align="center">
-    <h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
-  </div>
-  <img src="https://i.imgur.com/weNbhGZ.png">
+<div align="center">
+  <h1 align="center">Hola, soy Moroni Dev</h1>
+</div>
+<h2>Material</h2>
 
-  <a href="https://youtube.com/aristidevs?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social">
-  </a>
-  <a href="https://www.twitch.tv/aristidevs">
-    <img src="https://img.shields.io/twitch/status/aristidevs?style=social">
-  </a>
-  <a href="https://github.com/ArisGuimera">
-    <img src="https://img.shields.io/github/followers/arisguimera?style=social">
-  </a>
-  <img src="https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield">
+<div class="rectangulo rojo">c++</div>
+<div class="rectangulo verde">C</div>
+<div class="rectangulo azul">Python</div>
+<div class="rectangulo amarillo">Java</div>
+<div class="rectangulo naranja">JavaScript</div>
 
-  <h2>Sobre mi</h2>
+<h2>Redes sociales</h2>
 
-  <ul>
-    <li>⭐ Github Star ⭐</li>
-    <li>📲 Desarrollador móvil</li>
-    <li>🎥 Te enseño a programar apps en <a href="https://youtube.com/aristidevs?sub_confirmation=1">Youtube</a> (+28k subs)</li>
-    <li>✏️ Y por escrito en <a href="https://cursokotlin.com">CursoKotlin</a></li>
-    <li>📗 Autor del libro <a href="https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos">Iniciación a Android en Kotlin. Casos prácticos</a></li>
-    <li>🧑‍🏫 Creador de <a href="https://appcademy.dev">AppCademy</a></li>
-  </ul>
-
-  <h2>Proyectos *bombitas*</h2>
-
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Curso Android Básico</h3>
-        <div align="center">
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-            <img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android">
-          </a>
-          <p>
-            <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-              <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-            </a>
-          </p>
-          <p>
-            Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.
-          </p>
-        </div>
-      </td>
-
-      <td width="50%">
-        <br>
-        <h3 align="center">Arquitectura MVVM</h3>
-        <div align="center">
-          <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-            <img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM">
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-              <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-              <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-            </a>
-          </p>
-          <p>
-            Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <h3 align="center">GitHub Analytics</h3>
-  <p align="center">
-    <a href="https://github.com/ArisGuimera">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </p>
+<ul>
+  <li><a href="http://www.tiktok.com/@moroni.dev">Canal de YouTube</a></li>
+  <li><a href="http://www.tiktok.com/@moroni.dev">Canal de TikTok</a></li>
+  <li><a href="https://m.twitch.tv/gazelem01">Canal de Twitch</a></li>
+</ul>
 </body>
 </html>
