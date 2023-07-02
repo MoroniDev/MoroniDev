@@ -18,12 +18,12 @@ Estudio en la UVM
 ## 🛠 Skills
 
 <div style="display: flex;">
-    <img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="100">
-    <img src="https://imgur.com/JY0QQE8.png" alt="Java Logo" width="200">
+    <a href="URL_DEL_ENLACE_1"><img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="200"></a>
+    <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/JY0QQE8.png" alt="Java Logo" width="200"></a>
+    <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/mKnLhhW.png" alt="Otra Imagen" width="200"></a>
 </div>
 
 
-## 🛠 Skills
  
 ![Logo](https://imgur.com/RG7mEkL.png)
 
