@@ -3,13 +3,8 @@
 <head>
   <meta charset="UTF-8">
  
-    .rojo { background-color: red; }
-    .verde { background-color: green; }
-    .azul { background-color: blue; }
-    .amarillo { background-color: yellow; }
-    .naranja { background-color: orange; }
-    .morado { background-color: purple; }
-  </style>
+   
+
 </head>
 <body>
   <h1>Hola, soy Moroni Dev, estudiante, ¡y es un gusto!</h1>
