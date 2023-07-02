@@ -19,7 +19,7 @@ Estudio en la UVM
 
 ## 🛠 Skills
 Javascript, C, C++, Java, Python, HTML, CSS...
-
+![Logo](https://imgur.com/RG7mEkL.png)
 
 ## Other Common Github Profile Sections
 👩‍💻 soy dedicado y no me rindo...
