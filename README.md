@@ -2,16 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Mi página personal</title>
-  <style>
-    .rectangulo {
-      display: inline-block;
-      padding: 10px;
-      margin: 10px;
-      color: white;
-      font-weight: bold;
-      text-align: center;
-    }
+ 
     .rojo { background-color: red; }
     .verde { background-color: green; }
     .azul { background-color: blue; }
