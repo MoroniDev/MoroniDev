@@ -15,11 +15,16 @@ Estudio en la UVM
 [![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](http://www.tiktok.com/@moroni.dev)
 [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://m.twitch.tv/gazelem01)
 
+## 🛠 Skills
 
+<div style="display: flex;">
+    <img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="100">
+    <img src="https://imgur.com/JY0QQE8.png" alt="Java Logo" width="200">
+</div>
 
 
 ## 🛠 Skills
-Javascript, C, C++, Java, Python, HTML, CSS...
+ 
 ![Logo](https://imgur.com/RG7mEkL.png)
 
 ## Other Common Github Profile Sections
