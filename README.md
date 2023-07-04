@@ -28,7 +28,7 @@ Estudio en la UVM
 ## Other Common Github Profile Sections
 
  
-![Logo](https://imgur.com/RG7mEkL.png)
+![Logo](https://imgur.com/yzBLH9B.png)
 
 ## Other Common Github Profile Sections
 👩‍💻 soy dedicado y no me rindo...
