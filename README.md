@@ -14,6 +14,7 @@ Estudio en la UVM
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@moroni.dev01)
 [![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](http://www.tiktok.com/@moroni.dev)
 [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://m.twitch.tv/gazelem01)
+[![KICK](https://img.shields.io/badge/new_link-000000?style=for-the-badge&logo=kickstarter&logoColor=white)](https://kick.com/gazelem)
 
 ## 🛠 Skills
 
