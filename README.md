@@ -23,6 +23,8 @@ Estudio en la UVM
     <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/JY0QQE8.png" alt="Java Logo" width="200"></a>
     <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/mKnLhhW.png" alt="Otra Imagen" width="100"></a>
     <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/83XGCsW.png" alt="Otra Imagen" width="100"></a>
+    <a href="URL_DEL_ENLACE_6"><img src="https://imgur.com/Q4JGxh1.png" alt="Otra Imagen" width="100"></a>
+    <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="100"></a>
 </div>
 
 ## Other Common Github Profile Sections
