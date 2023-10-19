@@ -13,6 +13,14 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
     <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="50"></a>
 </div>
 
+## 🔗 MIS REDES
+
+
+[![Mis Redes](https://img.shields.io/badge/Mis%20Redes-E4405F?style=for-the-badge)](https://beacons.ai/moroni.dev)
+
+
+
+
 ## 🔗 Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moroni.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
