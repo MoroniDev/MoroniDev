@@ -4,15 +4,15 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 
 ## 🛠 Skills
 <div style="display: flex;">
-    <a href="(https://github.com/MoroniDev/ApuntesCursoPython)"><img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="50"></a>
+ 
+<a href="https://github.com/MoroniDev/ApuntesCursoPython"><img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="50"></a>
     <a href="URL_DEL_ENLACE_4"><img src="https://imgur.com/54bUTue.png" alt="Otra Imagen" width="50"></a>
     <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/JY0QQE8.png" alt="Java Logo" width="100"></a>
     <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/mKnLhhW.png" alt="Otra Imagen" width="50"></a>
     <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/83XGCsW.png" alt="Otra Imagen" width="50"></a>
     <a href="URL_DEL_ENLACE_6"><img src="https://imgur.com/Q4JGxh1.png" alt="Otra Imagen" width="50"></a>
     <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="50"></a>
-    <a href="https://beacons.ai/moroni.dev"><img src="https://i.imgur.com/K6EJBRY.png" alt="Mis Redes" width="50"></a>
-<a href="https://github.com/MoroniDev/ApuntesCursoPython"><img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="50"></a>
+  
 
 </div>
 
