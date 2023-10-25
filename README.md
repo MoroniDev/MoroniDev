@@ -11,6 +11,9 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
     <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/83XGCsW.png" alt="Otra Imagen" width="50"></a>
     <a href="URL_DEL_ENLACE_6"><img src="https://imgur.com/Q4JGxh1.png" alt="Otra Imagen" width="50"></a>
     <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="50"></a>
+    <a href="https://beacons.ai/moroni.dev"><img src="https://i.imgur.com/K6EJBRY.png" alt="Mis Redes" width="50"></a>
+<a href="https://github.com/MoroniDev/ApuntesCursoPython"><img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="50"></a>
+
 </div>
 
 
