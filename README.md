@@ -16,7 +16,7 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 ## 🔗 MIS REDES
 
 
-[![Mis Redes](https://i.imgur.com/K6EJBRY.png)](https://beacons.ai/moroni.dev)
+[![Mis Redes](https://i.imgur.com/K6EJBRY.png width="50")](https://beacons.ai/moroni.dev)
 
 
 
