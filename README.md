@@ -13,13 +13,6 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
     <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="50"></a>
 </div>
 
-## 🔗 MIS REDES
-
-[![Mis Redes](https://i.imgur.com/K6EJBRY.png)](https://beacons.ai/moroni.dev){:width="50"}
-
-
-
-
 
 ## 🔗 Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moroni.dev/)
@@ -33,3 +26,8 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 
 ## Other Common Github Profile Sections
 ![Logo](https://imgur.com/yzBLH9B.png)
+
+
+## 🔗 MIS REDES
+
+[![Mis Redes](https://i.imgur.com/K6EJBRY.png)](https://beacons.ai/moroni.dev)
