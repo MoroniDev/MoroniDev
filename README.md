@@ -16,7 +16,7 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 
 
 ## 🔗 MIS REDES
-<a href="https://beacons.ai/moroni.dev"><img src="https://i.imgur.com/K6EJBRY.png" alt="Mis Redes" width="180"></a>
+<a href="https://1drv.ms/b/s!AgZ-OdfYz8T7cXrQLeq3LPFKeJA?e=HdSyjl"><img src="https://i.imgur.com/K6EJBRY.png" alt="MIS CERTIFICADOS" width="180"></a>
 
 ## 🔗 Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moroni.dev/)
