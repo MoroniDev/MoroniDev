@@ -19,6 +19,7 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 <a href="https://1drv.ms/b/s!AgZ-OdfYz8T7cXrQLeq3LPFKeJA?e=HdSyjl"><img src="https://i.imgur.com/K6EJBRY.png" alt="MIS CERTIFICADOS" width="180"></a>
 <a href="https://1drv.ms/b/s!AgZ-OdfYz8T7b787qj9bJKRxb2s?e=SCUk7w"><img src="https://i.imgur.com/K6EJBRY.png" alt="MIS CERTIFICADOS" width="180"></a>
 <a href="https://1drv.ms/b/s!AgZ-OdfYz8T7cI5OjrOH9FPaH7c?e=N4IoOb"><img src="https://i.imgur.com/K6EJBRY.png" alt="MIS CERTIFICADOS" width="180"></a>
+<a href="https://1drv.ms/b/s!AgZ-OdfYz8T7diK8jOxquljSNbI?e=DecE4p"><img src="https://i.imgur.com/K6EJBRY.png" alt="MIS CERTIFICADOS" width="180"></a>
 
 ## 🔗 Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moroni.dev/)
