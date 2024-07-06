@@ -5,8 +5,8 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 ## 🛠 Skills
 <div style="display: flex;">
   <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/83XGCsW.png" alt="Otra Imagen" width="80"></a>
-  <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/mKnLhhW.png" alt="Otra Imagen" width="80"></a>
-  <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/R3l1PLn.png" alt="Java Logo" width="80"></a>
+  <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/xsJ2cuH.png" alt="Otra Imagen" width="80"></a>
+  <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/BZ7AfFX.png" alt="Java Logo" width="80"></a>
   <a href="URL_DEL_ENLACE_4"><img src="https://imgur.com/WqJuHmp.png" alt="Python" width="80"></a>
   <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/sg4JPPC.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/oOc491L.png" alt="Otra Imagen" width="80"></a>
