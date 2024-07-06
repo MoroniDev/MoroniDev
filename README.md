@@ -7,9 +7,8 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
   <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/83XGCsW.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/mKnLhhW.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/R3l1PLn.png" alt="Java Logo" width="80"></a>
-  <a href="https://www.flaticon.es/iconos-gratis/archivo-de-python" title="archivo de python iconos">Archivo de python iconos creados por Flat Icons - Flaticon</a>
   <a href="URL_DEL_ENLACE_4"><img src="https://imgur.com/54bUTue.png" alt="Otra Imagen" width="80"></a>
-  <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="80"></a>
+  <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/sg4JPPC" alt="Otra Imagen" width="80"></a>
   
 
 </div>
