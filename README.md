@@ -5,11 +5,11 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 ## 🛠 Skills
 <div style="display: flex;">
   <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/83XGCsW.png" alt="Otra Imagen" width="80"></a>
-   <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/mKnLhhW.png" alt="Otra Imagen" width="80"></a>
- <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/R3l1PLn.png" alt="Java Logo" width="80"></a>
-<a href="https://github.com/MoroniDev/ApuntesCursoPython"><img src="https://imgur.com/CqvJrt2.png" alt="Python Logo" width="80"></a>
-    <a href="URL_DEL_ENLACE_4"><img src="https://imgur.com/54bUTue.png" alt="Otra Imagen" width="80"></a>
-    <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="80"></a>
+  <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/mKnLhhW.png" alt="Otra Imagen" width="80"></a>
+  <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/R3l1PLn.png" alt="Java Logo" width="80"></a>
+  <a href="URL_DEL_ENLACE_2"><img src="href="https://www.flaticon.es/iconos-gratis/archivo-de-python" alt="Python Logo" width="80"></a>
+  <a href="URL_DEL_ENLACE_4"><img src="https://imgur.com/54bUTue.png" alt="Otra Imagen" width="80"></a>
+  <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/VNUoBbA.png" alt="Otra Imagen" width="80"></a>
   
 
 </div>
