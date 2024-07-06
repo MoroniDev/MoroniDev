@@ -16,6 +16,7 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
   <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/3WPJoBy.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/5wsZnXg.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/cb7Adl8.png" alt="Java Logo" width="80"></a>
+   <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/e0wPDVu.png" alt="Java Logo" width="80"></a>
 
 </div>
 
