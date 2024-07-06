@@ -11,7 +11,7 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
   <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/sg4JPPC.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/oOc491L.png" alt="Otra Imagen" width="80"></a>
 
-## 🛠 conocimiento adquirido
+## 🛠 conocimiento en proceso 
 <div style="display: flex;">
   <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/3WPJoBy.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/5wsZnXg.png" alt="Otra Imagen" width="80"></a>
