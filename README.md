@@ -2,7 +2,7 @@
 ## 🚀 About Me
 I am a Computer Systems Engineering student studying at the Universidad del Valle de México (UVM). Much of the knowledge I handle is related to software development, with a focus on programming. I have skills in teamwork and experience in fieldwork and interacting with people. I also have good leadership skills. My English level is intermediate.
 
-## 🛠 Skills
+## 🛠 Cursos y Habilidades
 <div style="display: flex;">
   <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/3dzCfoD.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/xsJ2cuH.png" alt="Otra Imagen" width="80"></a>
@@ -10,7 +10,12 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
   <a href="URL_DEL_ENLACE_4"><img src="https://imgur.com/WqJuHmp.png" alt="Python" width="80"></a>
   <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/sg4JPPC.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_7"><img src="https://imgur.com/oOc491L.png" alt="Otra Imagen" width="80"></a>
-  
+
+## 🛠 conocimiento adquirido
+<div style="display: flex;">
+  <a href="URL_DEL_ENLACE_5"><img src="https://imgur.com/3WPJoBy.png" alt="Otra Imagen" width="80"></a>
+  <a href="URL_DEL_ENLACE_3"><img src="https://imgur.com/5wsZnXg.png" alt="Otra Imagen" width="80"></a>
+  <a href="URL_DEL_ENLACE_2"><img src="https://imgur.com/cb7Adl8.png" alt="Java Logo" width="80"></a>
 
 </div>
 
