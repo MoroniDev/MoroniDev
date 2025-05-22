@@ -39,7 +39,7 @@ I am a Computer Systems Engineering student studying at the Universidad del Vall
 
 
 ## Other Common Github Profile Sections
-![Logo](https://imgur.com/yzBLH9B.png)
+![Logo](https://imgur.com/a/FxbYw14)
 
 
 
