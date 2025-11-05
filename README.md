@@ -39,7 +39,7 @@ I am a Computer Systems Engineer in the process of obtaining my degree from Univ
 
 
 ## Other Common Github Profile Sections
-![Logo](https://imgur.com/lEzcOh0.png)
+![Logo](https://imgur.com/a/tDmodK6)
 
 
 
