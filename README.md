@@ -9,6 +9,11 @@ My English level is intermediate.
 
 ---
 
+## Other Common GitHub Profile Sections
+![Logo](https://i.imgur.com/xKitqTF.png)
+
+---
+
 ## Cursos y Habilidades
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="URL_DEL_ENLACE_5"><img src="https://i.imgur.com/yrnw5tN.png" alt="Otra Imagen" width="80"></a>
@@ -49,10 +54,6 @@ My English level is intermediate.
 [![Kick](https://img.shields.io/badge/kick-000000?style=for-the-badge&logo=kickstarter&logoColor=green)](https://kick.com/gazelem)
 
 ---
-
-## Other Common GitHub Profile Sections
-![Logo](https://i.imgur.com/xKitqTF.png)
-
 
 
 
