@@ -1,26 +1,66 @@
-# ¡Hola! Soy Carlos Moroni Castellanos Cruz (Moroni.Dev)
-💻 Backend Developer | C# | SQL Server | APIs | Automatización Empresarial
-🚀 Apasionado por crear soluciones que eliminen procesos manuales y mejoren la productividad.
+# 👋 ¡Hola! Soy Carlos Moroni Castellanos Cruz (Moroni.Dev)
 
-Actualmente desarrollo integraciones empresariales utilizando C#, SQL Server, SDKs de CONTPAQi y APIs REST.
+### 💻 Software Engineer | Backend Developer | Data Analyst
+
+🚀 Apasionado por desarrollar soluciones tecnológicas que automatizan procesos, optimizan operaciones y transforman datos en información valiosa para la toma de decisiones.
+
+Actualmente participo en el desarrollo de **soluciones empresariales de extremo a extremo**, combinando desarrollo de software, análisis de datos y tecnologías cloud.
+
+### 🔹 Actualmente trabajo con
+
+* ⚙️ Desarrollo Backend con **C#**, **.NET** y **APIs REST**.
+* 📊 Análisis y visualización de datos utilizando **Python** y **Power BI**.
+* 🏢 Desarrollo de un **ERP para Recursos Humanos y Nóminas** con **Vue.js**, **Firebase**, control de privilegios por roles y autenticación segura.
+* ☁️ Despliegue de aplicaciones mediante **Vercel**, control de versiones con **Git/GitHub** y bases de datos en **Firebase Firestore**.
+* 🔗 Integración de sistemas empresariales mediante **SDKs de CONTPAQi**, **SQL Server** y servicios externos.
+
+Además, desarrollo proyectos **freelance** utilizando tecnologías como **Angular**, **React**, **Vue.js**, **Supabase** y **Firebase**, creando aplicaciones modernas, escalables y orientadas a resolver necesidades reales.
+
+
+---
+## 🚀 Sobre mí
+
+Soy Ingeniero en Diseño de Software y Redes, enfocado en el desarrollo de soluciones empresariales, automatización de procesos y análisis de datos. Me apasiona crear software que resuelva problemas reales, optimice operaciones y aporte valor a las organizaciones.
+
+Actualmente desempeño funciones como **Backend Developer** y **Analista de Datos**, participando en el diseño, desarrollo e implementación de soluciones tecnológicas para distintas áreas del negocio.
+
+### 💼 Actualmente trabajo en
+
+* 📊 **Análisis de datos** utilizando **Python** y **Power BI**, desarrollando reportes e indicadores para la toma de decisiones.
+* 💻 **Desarrollo de un ERP para Recursos Humanos y Nóminas**, implementando:
+
+  * Gestión de usuarios y roles con control de privilegios.
+  * Módulos administrativos para Recursos Humanos.
+  * Procesos relacionados con Nómina.
+  * Autenticación mediante **Firebase Authentication**.
+  * Base de datos en **Firebase Firestore**.
+  * Frontend desarrollado con **Vue.js**.
+  * Control de versiones con **Git y GitHub**.
+  * Despliegue continuo en **Vercel**.
+
+### 🚀 Experiencia Freelance
+
+Además de mi experiencia en el entorno empresarial, he participado en proyectos independientes desarrollando aplicaciones web con tecnologías modernas como:
+
+* Angular
+* React
+* Vue.js
+* Supabase
+* Firebase
+* APIs REST
+
+### 🛠️ Tecnologías principales
+
+* **Backend:** C#, .NET, APIs REST, Integración de SDKs (CONTPAQi)
+* **Frontend:** Vue.js, Angular, React, JavaScript, HTML, CSS
+* **Bases de datos:** SQL Server, Firebase Firestore, Supabase
+* **Análisis de datos:** Python, Power BI
+* **DevOps y herramientas:** Git, GitHub, Vercel, Firebase Authentication
 
 ---
 
-## 🚀 Sobre mí
+> Mi objetivo es desarrollar soluciones escalables, automatizar procesos empresariales y transformar datos en información útil para impulsar la toma de decisiones, combinando desarrollo de software, análisis de datos y tecnologías modernas en la nube.
 
-Soy Ingeniero en Diseño de Software y Redes con experiencia desarrollando soluciones backend para empresas.
-
-Me especializo en:
-
-✔ Desarrollo Backend con C#
-✔ Integración de sistemas empresariales
-✔ Automatización de procesos
-✔ SQL Server
-✔ APIs REST
-✔ SDKs (CONTPAQi)
-✔ Desarrollo Web
-
-Mi objetivo es construir software que reduzca tiempos operativos, elimine errores manuales y genere valor para las organizaciones.
 
 ## Mis servicios
 [![mis servicios](https://imgur.com/MCq1UBr.png)](https://moronidev-cv.vercel.app/)
