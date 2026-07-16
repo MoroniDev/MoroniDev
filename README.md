@@ -23,8 +23,8 @@ Me especializo en:
 
 Mi objetivo es construir software que reduzca tiempos operativos, elimine errores manuales y genere valor para las organizaciones.
 
-## Other Common GitHub Profile Sections
-![Logo](https://i.imgur.com/xKitqTF.png)
+## Mis servicios
+![Logo](https://imgur.com/a/BQzouKO.png)
 
 ---
 
