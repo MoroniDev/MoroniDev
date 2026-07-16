@@ -59,7 +59,7 @@ Mi objetivo es construir software que reduzca tiempos operativos, elimine errore
 
 ---
 
-## Links
+## Mis redes
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moroni.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@moroni.dev01)
@@ -67,8 +67,7 @@ Mi objetivo es construir software que reduzca tiempos operativos, elimine errore
 [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://m.twitch.tv/gazelem01)
 [![Kick](https://img.shields.io/badge/kick-000000?style=for-the-badge&logo=kickstarter&logoColor=green)](https://kick.com/gazelem)
 
----
-
+[![mis redes](https://imgur.com/PsGEkAB.png)](https://beacons.ai/moroni.dev)
 
 
 
