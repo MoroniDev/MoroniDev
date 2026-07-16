@@ -24,7 +24,7 @@ Me especializo en:
 Mi objetivo es construir software que reduzca tiempos operativos, elimine errores manuales y genere valor para las organizaciones.
 
 ## Mis servicios
-[![mis servicios](https://i.imgur.com/B9420rL.png)](https://moronidev-cv.vercel.app/)
+[![mis servicios](https://imgur.com/MCq1UBr.png)](https://moronidev-cv.vercel.app/)
 
 ---
 
