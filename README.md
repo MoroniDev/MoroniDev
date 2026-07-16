@@ -1,13 +1,28 @@
 # ¡Hola, soy Moroni Dev!!
 
-## About Me
-I am a Computer Systems Engineer in the process of obtaining my degree from Universidad del Valle de México (UVM).  
-I have professional experience in backend development and process automation using **C#** and the **CONTPAQi SDK**, as well as in IT support, web application development, and database management.  
-My work combines strong technical skills with effective communication, organization, and leadership abilities.  
-I have collaborated in both national and international projects, applying agile methodologies and ensuring efficient delivery of technological solutions.  
-My English level is intermediate.
+# 👋 ¡Hola! Soy Carlos Moroni Castellanos Cruz
+💻 Backend Developer | C# | SQL Server | APIs | Automatización Empresarial
+🚀 Apasionado por crear soluciones que eliminen procesos manuales y mejoren la productividad.
+
+Actualmente desarrollo integraciones empresariales utilizando C#, SQL Server, SDKs de CONTPAQi y APIs REST.
 
 ---
+
+## 🚀 Sobre mí
+
+Soy Ingeniero en Diseño de Software y Redes con experiencia desarrollando soluciones backend para empresas.
+
+Me especializo en:
+
+✔ Desarrollo Backend con C#
+✔ Integración de sistemas empresariales
+✔ Automatización de procesos
+✔ SQL Server
+✔ APIs REST
+✔ SDKs (CONTPAQi)
+✔ Desarrollo Web
+
+Mi objetivo es construir software que reduzca tiempos operativos, elimine errores manuales y genere valor para las organizaciones.
 
 ## Other Common GitHub Profile Sections
 ![Logo](https://i.imgur.com/xKitqTF.png)
