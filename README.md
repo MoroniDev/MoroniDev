@@ -24,7 +24,7 @@ Me especializo en:
 Mi objetivo es construir software que reduzca tiempos operativos, elimine errores manuales y genere valor para las organizaciones.
 
 ## Mis servicios
-![Logo](https://imgur.com/a/BQzouKO.png)
+![Logo](https://imgur.com/BQzouKO.png)
 
 ---
 
