@@ -94,7 +94,7 @@ Además de mi experiencia en el entorno empresarial, he participado en proyectos
 <a href="https://moronidev-cv.vercel.app/cursoPython.html"><img src="https://i.imgur.com/VuJ8mF3.png" alt="Certificado 2" width="180"></a>
 <a href="https://moronidev-cv.vercel.app/CursoIntroduccionRedes.html"><img src="https://i.imgur.com/tCirq3y.png" alt="Certificado 3" width="180"></a>
 <a href="https://moronidev-cv.vercel.app/cursoNDGLinuxEssentials.html"><img src="https://i.imgur.com/DN8kMzf.png" alt="Certificado 4" width="180"></a>
-<a href="https://1drv.ms/b/s!AgZ-OdfYz8T7diK8jOxquljSNbI?e=DecE4p"><img src="https://i.imgur.com/G5MwlFY.png" alt="Certificado 5" width="180"></a>
+<a href="https://moronidev-cv.vercel.app/cursoCUdemy.html"><img src="https://i.imgur.com/G5MwlFY.png" alt="Certificado 5" width="180"></a>
 
 ---
 
