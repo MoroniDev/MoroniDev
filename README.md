@@ -69,7 +69,7 @@ Además de mi experiencia en el entorno empresarial, he participado en proyectos
 
 ## Cursos y Habilidades
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="URL_DEL_ENLACE_5"><img src="https://i.imgur.com/yrnw5tN.png" alt="Otra Imagen" width="80"></a>
+  <a href="https://moronidev-cv.vercel.app/cursoCiberseguridad.html"><img src="https://i.imgur.com/yrnw5tN.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_3"><img src="https://i.imgur.com/xsJ2cuH.png" alt="Otra Imagen" width="80"></a>
   <a href="URL_DEL_ENLACE_2"><img src="https://i.imgur.com/BZ7AfFX.png" alt="Java Logo" width="80"></a>
   <a href="URL_DEL_ENLACE_4"><img src="https://i.imgur.com/WqJuHmp.png" alt="Python" width="80"></a>
